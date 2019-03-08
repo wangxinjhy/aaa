@@ -6,6 +6,10 @@ public class test1 {
         System.out.println("第1次更改");
 
     }
+    public static void method01(){
+        System.out.println("修改从远程仓库下载的源码");
+
+    }
 
 
 }
